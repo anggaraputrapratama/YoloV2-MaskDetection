@@ -1,5 +1,5 @@
 # YoloV2 Custom Training from own Dataset
-Train a custom YOLOv4 object detector
+
 ![Test Images YoloV2](https://raw.githubusercontent.com/anggaraputrapratama/yolov2-custom-training/main/test_image-Yolov2.png)
 
 
